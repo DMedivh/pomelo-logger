@@ -1,12 +1,28 @@
 {
-    "name": "pomelo-logger-plus",
-    "version": "0.1.0",
-    "private": false,
-    "dependencies": {
-        "log4js": "^3.0.6"
-    },
-    "devDependencies": {
-        "should": ">=0.0.1",
-        "mocha": ">=0.0.1"
-    }
+  "name": "pomelo-logger-ts",
+  "version": "1.0.0",
+  "description": "pomelo-logger ========",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "dependencies": {
+    "log4js": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DMedivh/pomelo-logger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DMedivh/pomelo-logger/issues"
+  },
+  "homepage": "https://github.com/DMedivh/pomelo-logger#readme"
 }
